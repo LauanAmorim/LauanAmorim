@@ -18,4 +18,4 @@ Hello, my name is Lauan Amorim, I'm 16 and I've been studying web development si
 
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=LauanAmorim&show_icons=true&theme=nord" alt="lauanamorim" />
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauanAmorim&layout=compact&langs_count=7&theme=nord" />
-</div>
+</div> 
