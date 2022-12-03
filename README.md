@@ -2,7 +2,7 @@
 
 ### 💻 About me
 <p>
-Hello, my name is Lauan Amorim, I'm 17 and I've been studying web development since 2019. I have knowledge with HTML, CSS, JavaScript and git. I have also been learning NodeJS and ExpressJS with MongoDB.
+Hello, my name is Lauan Amorim, I've been studying web development since 2019. I have knowledge with HTML, CSS, JavaScript, PHP and git. I also have been learning NodeJS and ExpressJS with MongoDB.
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lauanamorim&label=Profile%20views&color=0e75b6&style=flat" alt="lauanamorim" /> </p>
