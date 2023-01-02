@@ -5,7 +5,7 @@
 Hello, my name is Lauan Amorim, I've been studying web development since 2019. I have knowledge with HTML, CSS, JavaScript, PHP and git. I also have been learning NodeJS and ExpressJS with MongoDB.
 </p>
 
-<div align="center">
+<div align="left">
 <p>
 <strong> 🧠 I have skill on </strong> <br><br>
 <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="28px" />
