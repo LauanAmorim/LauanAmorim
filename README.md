@@ -5,8 +5,8 @@
 Hello, my name is Lauan Amorim, I've been studying web development since 2019. I have knowledge with HTML, CSS, JavaScript, PHP and git. I also have been learning NodeJS and ExpressJS with MongoDB.
 </p>
 <div align="left">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="28px" />
-<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="discord" height="28px" />
+<a href="https://linkedin.com/in/lauanamorim"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="28px" /></a>
+<a href="discordapp.com/users/576854091519623169"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="discord" height="28px" /></a>
 </div>
 <br>
 <div align="left">
