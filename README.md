@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lauan.</h1>
-
+ 
 ### 💻 About me
 <p>
 Hello, my name is Lauan Amorim, I've been studying web development since 2019. I have knowledge with HTML, CSS, JavaScript, PHP and git. I also have been learning NodeJS and ExpressJS with MongoDB.
