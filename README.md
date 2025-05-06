@@ -2,7 +2,7 @@
 
 ### 💻 About me
 
-Hello, my name is Lauan Amorim, I've been developing systems since 2019. I'm a Computer Science undergraduate student with technical expertise in systems development. I have extensive experience in back-end development, system analysis, and leading projects using technologies such as C#, ASP.Net, .NET 6+, SQL/MySQL, and more.
+Hello, my name is Lauan Amorim, I've been developing systems since 2019. I'm a Computer Science student with technical expertise in systems development. I have extensive experience in back-end development, system analysis using C#, ASP.Net, .NET 6+, SQL/MySQL, React (Context API, Redux, Hooks etc), Angular and more.
 
 ### Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lauanamorim)
